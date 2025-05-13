@@ -27,7 +27,10 @@ Aquí encontrarás algunos de mis proyectos de análisis de datos:
 Si te interesa compartir ideas, colaborar o simplemente intercambiar experiencias, ¡charlemos!  
 📧 **Email:** cmfages.it@gmail.com  
 📌 **LinkedIn:** [linkedin.com/in/christian-fages-it](#)  
+---
+✨ _Siempre aprendiendo. Siempre mejorando._ 🚀  
 
+---
 
 - # 👋 Hey! I'm Christian Maximiliano Fages (CMFdata)  
 ### 📊 Data Explorer | Curious Learner | Aspiring Data Analyst  
@@ -58,14 +61,9 @@ Here are some of my data analysis projects:
 If you're interested in exchanging ideas, collaborating, or just sharing experiences, let's talk!  
 📧 **Email:** cmfages.it@gmail.com  
 📌 **LinkedIn:** [linkedin.com/in/christian-fages-it](#)  
-
 ---
-
 ✨ _Always learning. Always improving._ 🚀  
 
----
-
-✨ _Siempre aprendiendo. Siempre mejorando._ 🚀  
 
 <!---
 CMFdata/CMFdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
