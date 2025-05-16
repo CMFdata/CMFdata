@@ -1,4 +1,4 @@
-- # 👋 ¡Hola! Soy Christian Maximiliano Fages (CMFdata)  
+- # 👋 ¡Hola! Soy Christian Maximiliano Fages 
 ### 📊 Explorador de Datos | Aprendiz Curioso | Data Analyst en Formación  
 
 Bienvenido a mi GitHub. Estoy en un viaje de aprendizaje en el mundo del análisis de datos, explorando herramientas, técnicas y mejores prácticas para convertir datos en decisiones inteligentes.  
@@ -32,7 +32,7 @@ Si te interesa compartir ideas, colaborar o simplemente intercambiar experiencia
 
 ---
 
-- # 👋 Hey! I'm Christian Maximiliano Fages (CMFdata)  
+- # 👋 Hey! I'm Christian Maximiliano Fages
 ### 📊 Data Explorer | Curious Learner | Aspiring Data Analyst  
 
 Welcome to my GitHub! I'm on a journey of learning in the field of data analytics, exploring tools, techniques, and best practices to turn data into meaningful insights.  
