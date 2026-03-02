@@ -1,16 +1,16 @@
 - # 👋 ¡Hola! Soy Christian Maximiliano Fages 
-### 📊 Explorador de Datos | Aprendiz Curioso | Data Analyst en Formación  
+### 📊 Analista de Datos
 
-Bienvenido a mi GitHub. Estoy en un viaje de aprendizaje en el mundo del análisis de datos, explorando herramientas, técnicas y mejores prácticas para convertir datos en decisiones inteligentes.  
+Dedicado a descubrir conocimientos a través del análisis de datos y a crear soluciones. Con una sólida base en manipulación de datos, visualización y narrativa, disfruto explorando patrones y tendencias para ofrecer recomendaciones prácticas. Me destaco por la comunicación clara, la colaboración efectiva y la adaptabilidad frente a nuevos desafíos, siempre en busca de oportunidades para crecer, aprender y generar impacto. 
 
 ## 🚀 Sobre mí  
 - 📌 Apasionado por transformar datos en información accionable.  
-- 📊 Explorando SQL, Python, Power BI, Google Sheets y más.  
+- 📊 Exploración utilizando SQL y Python.  
 - 💡 Siempre en busca de nuevas formas de optimizar flujos de trabajo y análisis.  
 - 🎯 Enfocado en aprender, experimentar y crecer en el campo del Data Analytics.  
 
-## 🛠️ Habilidades en Desarrollo  
-- 🔄 **SQL** → Jugando con joins y consultas avanzadas.  
+## 🛠️ Habilidades 
+- 🔄 **SQL** → Utilizando uniones y creando consultas avanzadas.  
 - 📊 **Google Sheets & Microsoft Excel** → Fórmulas avanzadas y automatización.  
 - 📌 **Data Visualization** → Creando dashboards con Power BI y Tableau.  
 - 🤖 **Automatización** → Explorando VBA, OCR y bots para procesos inteligentes.  
@@ -18,13 +18,13 @@ Bienvenido a mi GitHub. Estoy en un viaje de aprendizaje en el mundo del anális
 ## 📂 Proyectos Destacados  
 Aquí encontrarás algunos de mis proyectos de análisis de datos:  
 <!---
-- [📊 Análisis de popular Heladeria y Formateo en Microsft Excel](#)  
-- [📌 Creación de Dashboards con Power BI](#)  
-- [🔎 Optimización de Datos con SQL y Python](#)  
+- [📊 Evolución del Negocio: Completé los requerimientos de negocio con el objetivo de generar insights, desarrollando paneles interactivos, compartiendo conclusiones y utilizando frameworks de negocio.](#)  
+- [📌 Ventas de cafeteria: Apliqué técnicas de análisis para evaluar el rendimiento de ventas en cafeterías y comunicar hallazgos mediante un panel interactivo.](#)  
+- [🔎 Accidentes de Trafico: Utilicé herramientas de visualización para analizar y compartir un estudio detallado sobre los registros de accidentes en autopistas federales.](#)  
 --->
 
 ## 📫 Conéctate conmigo  
-Si te interesa compartir ideas, colaborar o simplemente intercambiar experiencias, ¡charlemos!  
+Si te gustaría conversar, conocer más sobre mi trabajo o explorar oportunidades de colaboración, ¡no dudes en ponerte en contacto! Ya sea que tengas un proyecto en mente, una pregunta sobre análisis de datos o simplemente quieras saludar, estaré encantado de escucharte.
 📧 **Email:** cmfages.it@gmail.com  
 📌 **LinkedIn:** [linkedin.com/in/christian-fages-it](#)  
 ---
@@ -33,9 +33,9 @@ Si te interesa compartir ideas, colaborar o simplemente intercambiar experiencia
 ---
 
 - # 👋 Hey! I'm Christian Maximiliano Fages
-### 📊 Data Explorer | Curious Learner | Aspiring Data Analyst  
+### 📊 Data Analyst  
 
-Welcome to my GitHub! I'm on a journey of learning in the field of data analytics, exploring tools, techniques, and best practices to turn data into meaningful insights.  
+Dedicated to uncovering insights through data analysis and building impactful solutions. With a solid foundation in data manipulation, visualization, and storytelling, I enjoy exploring patterns and trends to provide actionable recommendations. I excel at clear communication, effective collaboration, and adapting to new challenges, always seeking opportunities to grow, learn, and make a difference.
 
 ## 🚀 About Me  
 - 📌 Passionate about transforming data into actionable information.  
@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm on a journey of learning in the field of data analytic
 - 💡 Always searching for new ways to optimize workflows and analysis.  
 - 🎯 Focused on learning, experimenting, and growing in the field of Data Analytics.  
 
-## 🛠️ Developing Skills  
+## 🛠️ Skills  
 - 🔄 **SQL** → Playing with joins and advanced queries.  
 - 📊 **Google Sheets & Microsoft Excel** → Advanced formulas and automation.  
 - 📌 **Data Visualization** → Creating dashboards with Power BI and Tableau.  
@@ -52,13 +52,13 @@ Welcome to my GitHub! I'm on a journey of learning in the field of data analytic
 ## 📂 Featured Projects  
 Here are some of my data analysis projects:  
 <!---
-- [📊 Popular Ice Cream Shop Analysis & Formatting in Microsoft Excel](#)  
-- [📌 Dashboard Creation with Power BI](#)  
-- [🔎 Data Optimization with SQL and Python](#)  
+- 📊 Business Evolution: Fulfilled business requirements to generate insights by developing interactive dashboards, sharing key findings, and applying business frameworks.
+- 📌 Coffee Shop Sales: Applied analytical techniques to evaluate sales performance across coffee shop locations and communicated findings through an interactive dashboard.
+- 🔎 Traffic Accidents: Utilized visualization tools to analyze and present a detailed study on accident records across federal highways.
 --->
 
 ## 📫 Connect with Me  
-If you're interested in exchanging ideas, collaborating, or just sharing experiences, let's talk!  
+If you'd like to chat, learn more about my work, or explore collaboration opportunities, please don't hesitate to get in touch! Whether you have a project in mind, a question about data analysis, or just want to say hello, I’d be happy to hear from you.
 📧 **Email:** cmfages.it@gmail.com  
 📌 **LinkedIn:** [linkedin.com/in/christian-fages-it](#)  
 ---
