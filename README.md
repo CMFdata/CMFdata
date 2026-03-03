@@ -59,7 +59,7 @@ Here are some of my data analysis projects:
 If you'd like to chat, learn more about my work, or explore collaboration opportunities, please don't hesitate to get in touch! Whether you have a project in mind, a question about data analysis, or just want to say hello, I’d be happy to hear from you.
 
 📧 **Email:** cmfages.it@gmail.com  
-📑 **LinkedIn:** [linkedin.com/in/christian-fages-it](#)  
+📑 **LinkedIn:** [linkedin.com/in/christian-fages-it](https://linkedin.com/in/christian-fages-it)  
 ---
 ✨ _Always learning. Always improving._ 🚀  
 
