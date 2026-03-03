@@ -26,7 +26,7 @@ Aquí encontrarás algunos de mis proyectos de análisis de datos:
 Si te gustaría conversar, conocer más sobre mi trabajo o explorar oportunidades de colaboración, ¡no dudes en ponerte en contacto! Ya sea que tengas un proyecto en mente, una pregunta sobre análisis de datos o simplemente quieras saludar, estaré encantado de escucharte.
 
 📧 **Email:** cmfages.it@gmail.com  
-📑 **LinkedIn:** [linkedin.com/in/christian-fages-it](linkedin.com/in/christian-fages-it)  
+📑 **LinkedIn:** [linkedin.com/in/christian-fages-it](https://linkedin.com/in/christian-fages-it)  
 ---
 ✨ _Siempre aprendiendo. Siempre mejorando._ 🚀  
 
