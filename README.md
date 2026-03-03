@@ -13,7 +13,7 @@ Dedicado a descubrir conocimientos a través del análisis de datos y a crear so
 - 🔄 **SQL** → Consultas para extraer información, Bases NoSQL para datos no estructurados, Gestión de grandes volúmenes.
 - 📊 **Hojas de Calculo** → Fórmulas avanzadas, Tablas dinámicas, Validación de datos y automatización con macros.
 - 📌 **Visualizacion** → Dashboards con Tableau, Power BI y Looker Studio, Gráficos dinámicos para explorar tendencias, Storytelling visual para comunicar insights.
-- 🤖 **Python** → Limpieza y transformación con pandas, Visualización (matplotlib, seaborn), Automatización de procesos.
+- 🐍 **Python** → Limpieza y transformación con pandas, Visualización (matplotlib, seaborn), Automatización de procesos.
  
 
 ## 📂 Proyectos Destacados  
