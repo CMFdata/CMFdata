@@ -4,17 +4,17 @@
 Dedicado a descubrir conocimientos a través del análisis de datos y a asegurar infraestructuras digitales. Con una sólida base en manipulación de datos, visualización y una nueva especialización en seguridad informática, disfruto explorando patrones y fortaleciendo la integridad de la información. Me destaco por la comunicación clara, la colaboración efectiva y la adaptabilidad frente a nuevos desafíos, siempre en busca de oportunidades para crecer, aprender y generar impacto. 
 
 ## 🚀 Sobre mí  
-📌 Apasionado por transformar datos en información accionable y proteger activos digitales.
-📊 Exploración técnica utilizando SQL y Python.
-🛡️ Certificado profesional en Ciberseguridad (Google Cybersecurity Professional Certificate).
-💡 Siempre en busca de nuevas formas de optimizar flujos de trabajo y análisis.
-🎯 Enfocado en aprender, experimentar y crecer en la intersección de Data Analytics y Seguridad.  
+- 📌 Apasionado por transformar datos en información accionable y proteger activos digitales.
+- 📊 Exploración técnica utilizando SQL y Python.
+- 🛡️ Certificado profesional en Ciberseguridad (Google Cybersecurity Professional Certificate).
+- 💡 Siempre en busca de nuevas formas de optimizar flujos de trabajo y análisis.
+- 🎯 Enfocado en aprender, experimentar y crecer en la intersección de Data Analytics y Seguridad.  
 
 ## 🛠️ Habilidades 
-🔄 Data & Tech: SQL (Consultas avanzadas, NoSQL), Python (Pandas, automatización, limpieza de datos).
-📊 Visualización: Dashboards con Tableau, Power BI y Looker Studio, Storytelling visual para comunicar insights.
-🛡️ Ciberseguridad: Fundamentos de seguridad, gestión de riesgos y análisis de amenazas.
-💻 Herramientas de Oficina: Hojas de cálculo (Macros, fórmulas avanzadas, automatización).
+- 🔄 Data & Tech: SQL (Consultas avanzadas, NoSQL), Python (Pandas, automatización, limpieza de datos).
+- 📊 Visualización: Dashboards con Tableau, Power BI y Looker Studio, Storytelling visual para comunicar insights.
+- 🛡️ Ciberseguridad: Fundamentos de seguridad, gestión de riesgos y análisis de amenazas.
+- 💻 Herramientas de Oficina: Hojas de cálculo (Macros, fórmulas avanzadas, automatización).
  
 
 ## 📂 Proyectos Destacados  
@@ -40,17 +40,17 @@ Si te gustaría conversar, conocer más sobre mi trabajo o explorar oportunidade
 Dedicated to uncovering insights through data analysis and securing digital infrastructures. With a strong foundation in data manipulation and visualization, and a recent specialization in cybersecurity, I enjoy exploring patterns and strengthening data integrity. I excel at clear communication, effective collaboration, and adaptability to new challenges, always seeking opportunities to grow, learn, and make an impact.
 
 ## 🚀 About Me  
-📌 Passionate about transforming data into actionable insights and protecting digital assets.
-📊 Technical exploration using SQL and Python.
-🛡️ Google Cybersecurity Professional Certificate.
-💡 Always seeking new ways to optimize workflows and analytics.
-🎯 Focused on learning, experimenting, and growing at the intersection of Data Analytics and Security.
+- 📌 Passionate about transforming data into actionable insights and protecting digital assets.
+- 📊 Technical exploration using SQL and Python.
+- 🛡️ Google Cybersecurity Professional Certificate.
+- 💡 Always seeking new ways to optimize workflows and analytics.
+- 🎯 Focused on learning, experimenting, and growing at the intersection of Data Analytics and Security.
 
 ## 🛠️ Skills  
-🔄 Data & Tech: SQL (Advanced queries, NoSQL), Python (Pandas, automation, data cleaning). 
-📊 Visualization: Dashboards with Tableau, Power BI, and Looker Studio; visual storytelling to communicate insights. 
-🛡️ Cybersecurity: Security fundamentals, risk management, and threat analysis. 
-💻 Office Tools: Spreadsheets (Macros, advanced formulas, automation).
+- 🔄 Data & Tech: SQL (Advanced queries, NoSQL), Python (Pandas, automation, data cleaning). 
+- 📊 Visualization: Dashboards with Tableau, Power BI, and Looker Studio; visual storytelling to communicate insights. 
+- 🛡️ Cybersecurity: Security fundamentals, risk management, and threat analysis. 
+- 💻 Office Tools: Spreadsheets (Macros, advanced formulas, automation).
 
 ## 📂 Featured Projects  
 Here are some of my data analysis projects:  
